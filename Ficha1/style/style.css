@@ -30,6 +30,7 @@ nav{
 	height: 15%;
 	background-color: #58ACFA;
 	padding: 10px;
+	margin-top: 0.3%;
 }
 
 nav ul li{
@@ -39,4 +40,16 @@ nav ul li{
 
 nav ul{
 	all: unset;
+}
+
+aside{
+	width: 50%;
+}
+
+article{
+	width: 50%;
+}
+
+section{
+	background-color: #A8CFF4;
 }
